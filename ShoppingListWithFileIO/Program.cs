@@ -19,7 +19,7 @@ namespace ShoppingListWithFileIO
 
         public List<string> ShoppingItems;
         public string FilePath;
- 
+
 
         public ShoppingList(string filePath)
         {
@@ -34,7 +34,7 @@ namespace ShoppingListWithFileIO
 
             while (true)
             {
-                
+
                 PrintInstructions();
                 string userInput = Console.ReadLine();
 
@@ -45,7 +45,7 @@ namespace ShoppingListWithFileIO
                 }
                 else
                 {
-                    SaveLineToFile(this.FilePath,userInput);
+                    SaveLineToFile(this.FilePath, userInput);
 
                 }
             }
