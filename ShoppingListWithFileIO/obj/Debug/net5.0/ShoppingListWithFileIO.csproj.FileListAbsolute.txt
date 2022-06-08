@@ -1,0 +1,16 @@
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\bin\Debug\net5.0\ShoppingListWithFileIO.exe
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\bin\Debug\net5.0\ShoppingListWithFileIO.deps.json
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\bin\Debug\net5.0\ShoppingListWithFileIO.runtimeconfig.json
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\bin\Debug\net5.0\ShoppingListWithFileIO.runtimeconfig.dev.json
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\bin\Debug\net5.0\ShoppingListWithFileIO.dll
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\bin\Debug\net5.0\ref\ShoppingListWithFileIO.dll
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\bin\Debug\net5.0\ShoppingListWithFileIO.pdb
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ShoppingListWithFileIO.csproj.AssemblyReference.cache
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ShoppingListWithFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ShoppingListWithFileIO.AssemblyInfoInputs.cache
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ShoppingListWithFileIO.AssemblyInfo.cs
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ShoppingListWithFileIO.csproj.CoreCompileInputs.cache
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ShoppingListWithFileIO.dll
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ref\ShoppingListWithFileIO.dll
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ShoppingListWithFileIO.pdb
+C:\Users\Sampsa\source\repos\ShoppingListWithFileIO\ShoppingListWithFileIO\obj\Debug\net5.0\ShoppingListWithFileIO.genruntimeconfig.cache
